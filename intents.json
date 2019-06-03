@@ -19,11 +19,6 @@
          "responses": ["You can call me Rohan.", "I'm Rohan", "It's Rohan."],
          "context_set": ""
         },
-        {"tag": "nigga",
-         "patterns": ["who are the niggas?", "example of a nigga", "wakanda forever"],
-         "responses": ["KSI", "Tobi", "Aditya LOL"],
-         "context_set": ""
-        },
         {"tag": "specs",
          "patterns": ["what can you do?", "what are you", "are you dumb"],
          "responses": ["I am a chatbot based on AI", "I am a chatbot I can chat"],
